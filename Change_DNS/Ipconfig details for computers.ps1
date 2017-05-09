@@ -1,0 +1,1 @@
+get-content d:\ipconfigs\computers.txt | d:\ipconfigs\get-ipdetails.ps1 |ft -auto
