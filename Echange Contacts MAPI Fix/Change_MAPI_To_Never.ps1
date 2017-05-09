@@ -1,0 +1,1 @@
+Get-MailContact -ResultSize Unlimited | Set-MailContact -UseMapiRichTextFormat Never
